@@ -2,8 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Adding a sentance for rebasing example.
-Adding more changes from myfeature branch.
-
+Amergency fix.
 ## Introduction
 
 This is example to show different parts of the Git repository and various commands using a web project.
