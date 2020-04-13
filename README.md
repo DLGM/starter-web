@@ -16,5 +16,6 @@ This is a simple project, deployment can be on any web server or even local file
 
 ## How To Contribute
 
-lorem ipsum
+### Copyright
 
+2020 DLGM
