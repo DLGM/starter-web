@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	David Lerner -- DevOps & Cloud Engineer -- davidlernergm@gmail.com
 
 # THANKS
 
